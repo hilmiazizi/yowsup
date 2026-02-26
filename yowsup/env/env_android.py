@@ -17,15 +17,15 @@ class AndroidYowsupEnv(YowsupEnv):
         "YHNtYoIvt5R3X6YZylbPftF/8ayWTALBgcqhkjOOAQDBQADLwAwLAIUAKYCp0d6z4QQdyN74JDfQ2WCyi8CFDUM4CaNB+ceVXd" \
         "KtOrNTQcc0e+t"
 
-    _MD5_CLASSES = "WuFH18yXKRVezywQm+S24A=="
+    _MD5_CLASSES = "NeaPDzWjJdGyCXLb2DN1Vg=="
     _KEY = "eQV5aq/Cg63Gsq1sshN9T3gh+UUp0wIw0xgHYT1bnCjEqOJQKCRrWxdAe2yvsDeCJL+Y4G3PRD2HUF7oUgiGo8vGlNJOaux26k+A2F3hj8A="
 
-    _VERSION = "2.21.21.18" # 2.20.206.24
+    _VERSION = "2.26.7.74" # 2.20.206.24
     _OS_NAME = "Android"
-    _OS_VERSION = "8.0.0"
-    _DEVICE_NAME = "star2lte"
-    _MANUFACTURER = "samsung"
-    _BUILD_VERSION = "star2ltexx-user 8.0.0 R16NW G965FXXU1ARCC release-keys"
+    _OS_VERSION = "14"
+    _DEVICE_NAME = "shiba"
+    _MANUFACTURER = "Google"
+    _BUILD_VERSION = "shiba-user 14 AP1A.240305.019.A1 11445493 release-keys"
     _AXOLOTL = True
 
     def getVersion(self):
